@@ -1,5 +1,5 @@
 # Site settings
-title: Data Visualization SpecialistZ
+title: Data Visualization Specialist
 email: henry.datavisuals@gmail.com
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "Helping organisations by making their data easy to read and accessible for stakeholders."
@@ -32,23 +32,16 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Henry Leung
   location: Location
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  - title: linkedin
+    url: https://www.linkedin.com/in/henry-l-a8031a112/
+
 
 # Postal address (add as many lines as necessary)
 address:
