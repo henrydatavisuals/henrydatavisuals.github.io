@@ -4,8 +4,8 @@ modal-id: 4
 date: 2014-07-15
 img: Quadrant 4 Example - Short Term PBI.PNG
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Test
+project-date: May 2023
+client: Small Business
+category: Weekly Operations
+description: Information suitable for someone looking to monitor their business on a weekly basis. Will be able to see how much revenue is being generated per day, number of orders driving that revenue, and most importantly compared vs last year how their business is performing.
 ---
