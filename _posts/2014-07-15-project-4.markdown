@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: Quadrant 4 Example - Short Term PBI.PNG
+img: Quad 4 Example.PNG
 alt: image-alt
 project-date: May 2023
 client: Small Business
