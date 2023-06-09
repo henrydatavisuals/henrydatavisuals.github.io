@@ -2,10 +2,10 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: Quad 1 Example.PNG
+img: Quad 1 Example 2.PNG
 alt: image-alt
 project-date: 2023
-client: Excel
+client: Built on Microsoft Excel
 category: Weekly View / Summary Dashboard
 description: Example data visual that consolidates and highlights relevant sales information on a weekly basis. Notable points include tracking current performance, points of comparison, and breaking down sales factors.
 ---
