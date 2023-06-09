@@ -7,5 +7,5 @@ alt: image-alt
 project-date: 2023
 client: Excel
 category: Weekly View
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Example data visual that consolidates and highlights relevant sales information on a weekly basis. Notable points include tracking current performance, points of comparison, and breaking down sales factors.
 ---
