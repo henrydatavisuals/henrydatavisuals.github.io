@@ -4,8 +4,8 @@ modal-id: 3
 date: 2014-07-16
 img: Quad 3 Example.PNG
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: 2023
+client: Built on Microsoft Excel
+category: Weekly View / Summary Dashboard
+description: Example data visual that consolidates and highlights relevant financial information on a weekly basis. Notable points include cash flow overview, breaking down finance drivers, and a short forward projection based on past actuals.
 ---

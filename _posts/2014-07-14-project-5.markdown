@@ -4,8 +4,8 @@ modal-id: 5
 date: 2014-07-14
 img: QUAD 6 Example.PNG
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: 2023
+client: Built on Microsoft Power BI
+category: Utility Dashboard
+description: Sales information mapped and integrated to a mapped view. Suitable for identifying trends, patterns, while tracking performance from a geographic perspective. Compatible for mobile devices.
 ---

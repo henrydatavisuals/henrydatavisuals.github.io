@@ -4,8 +4,8 @@ modal-id: 6
 date: 2014-07-15
 img: Quad 5 Example Medium.PNG
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: 2023
+client: Built on Microsoft Power BI
+category: Monthly View / Summary Dashboard
+description: Example data visual that consolidates and highlights relevant performance information on a monthly basis. Notable points include tracking current performance, item mix, and basket size. More compatible for mobile devices.
 ---

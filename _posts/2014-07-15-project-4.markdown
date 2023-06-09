@@ -4,8 +4,8 @@ modal-id: 4
 date: 2014-07-15
 img: Quad 4 Example.PNG
 alt: image-alt
-project-date: May 2023
-client: Small Business
-category: Weekly Operations
-description: Information suitable for someone looking to monitor their business on a weekly basis. Will be able to see how much revenue is being generated per day, number of orders driving that revenue, and most importantly compared vs last year how their business is performing.
+project-date: 2023
+client: Built on Microsoft Power BI
+category: Weekly View / Summary Dashboard
+description: Example data visual that consolidates and highlights relevant sales information on a weekly basis. Notable points include tracking current performance, points of comparison, and breaking down sales factors. More compatible for mobile devices.
 ---
