@@ -2,7 +2,7 @@
 title: Data Visuals Specialist
 email: henry.datavisuals@gmail.com
 url: henrydatavisuals.github.io
-description: "Helping organisations by making their data easy to read and accessible for stakeholders."
+description: "Making your business performance obvious."
 keywords: "your keywords, separated by commas"
 skills: "Excel - PowerBI - Business Intelligence"
 meta_author: Leung Henry
@@ -40,7 +40,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/henryleung23/
+    url:
 
 
 # Postal address (add as many lines as necessary)
